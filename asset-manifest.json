@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GRIP-CI-CD-Pipeline/static/css/main.f7b19b5b.css",
+    "main.js": "/GRIP-CI-CD-Pipeline/static/js/main.f22604bd.js",
+    "static/js/787.2c1fded4.chunk.js": "/GRIP-CI-CD-Pipeline/static/js/787.2c1fded4.chunk.js",
+    "index.html": "/GRIP-CI-CD-Pipeline/index.html",
+    "main.f7b19b5b.css.map": "/GRIP-CI-CD-Pipeline/static/css/main.f7b19b5b.css.map",
+    "main.f22604bd.js.map": "/GRIP-CI-CD-Pipeline/static/js/main.f22604bd.js.map",
+    "787.2c1fded4.chunk.js.map": "/GRIP-CI-CD-Pipeline/static/js/787.2c1fded4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b19b5b.css",
+    "static/js/main.f22604bd.js"
+  ]
+}
